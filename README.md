@@ -1,6 +1,7 @@
 # Minishell
 
 Summary:
+
 This project is about creating a simple shell.
 Yes, our own little bash.
 We (our team) has learned a lot about processes and file descriptors.
